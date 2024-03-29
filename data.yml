@@ -4,4 +4,4 @@ nc: 1
 
 test: /kaggle/working/datasets/cow_segmentation-1/test/images
 train: /kaggle/working/datasets/cow_segmentation-1/train/images
-val: /kaggle/working/datasets/cow_segmentation-1/val/images
+val: /kaggle/working/datasets/cow_segmentation-1/valid/images
