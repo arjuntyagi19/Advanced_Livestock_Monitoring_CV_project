@@ -22,11 +22,14 @@ Traditional livestock counting methods are labor-intensive, time-consuming, and 
 5. Optimize workflow efficiency and resource allocation.
 
 ## Dataset
-
+T
 FarmSense uses a comprehensive, augmented dataset for robust and accurate performance.
 [Dataset Link](https://universe.roboflow.com/cvproject-d8hm5/cv-project-4-c)
 
 ## Methodology
+<center>
+  <img src="https://github.com/amitesh30/COMPUTER-VISION-PROJECT/raw/main/Images/Screenshot%202024-05-01%20023500.png" alt="Image Alt Text">
+</center>
 
 1. **Model Exploration & Segmentation**
     - [Model Exploration & Segmentation](https://github.com/amitesh30/COMPUTER-VISION-PROJECT/assets/93579400/41f1ba1f-351b-46b4-ac9a-250dd4acff27)
