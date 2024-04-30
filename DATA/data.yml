@@ -1,0 +1,14 @@
+names:
+- COW
+- Cattle
+- horse
+- pig
+- sheep
+- undefined
+nc: 6
+
+# nc: 6
+
+test: /kaggle/input/cv-dataset/valid/images
+train: /kaggle/input/cv-dataset/train/images
+val: /kaggle/input/cv-dataset/test/images
